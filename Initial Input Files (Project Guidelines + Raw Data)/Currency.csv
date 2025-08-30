@@ -1,0 +1,180 @@
+﻿CurrencyKey,CurrencyISOCode,Currency,CurrencyDescription,CurrencyISOCodeNumber
+1,AED,Dirhams,United Arab Emirates Dirhams,784
+2,AFN,Afghanis,Afghanistan Afghanis,971
+3,ALL,Leke,Albania Leke,8
+4,AMD,Drams,Armenia Drams,51
+5,ANG,Guilders,Netherlands Antilles Guilders,532
+6,AOA,Kwanza,Angola Kwanza,973
+7,ARS,Pesos,Argentina Pesos,32
+8,AUD,Dollars,Australia Dollars,36
+9,AWG,Guilders,Aruba Guilders,533
+10,AZN,Manats,Azerbaijan New Manats,-1
+11,BAM,Marka,Bosnia and Herzegovina Convertible Marka,977
+12,BBD,Dollars,Barbados Dollars,52
+13,BDT,Taka,Bangladesh Taka,50
+14,BGN,Leva,Bulgaria Leva,975
+15,BHD,Dinars,Bahrain Dinars,48
+16,BIF,Francs,Burundi Francs,108
+17,BMD,Dollars,Bermuda Dollars,60
+18,BND,Dollars,Brunei Dollars,96
+19,BOB,Bolivianos,Bolivia Bolivianos,68
+20,BRL,Reais,Brazil Reais,986
+21,BSD,Dollars,Bahamas Dollars,44
+22,BTN,Ngultrum,Bhutan Ngultrum,64
+23,BWP,Pula,Botswana Pulas,72
+24,BYR,Rubles,Belarus Rubles,974
+25,BZD,Dollars,Belize Dollars,84
+26,CAD,Dollars,Canada Dollars,124
+27,CDF,Francs,Congo/Kinshasa Francs,976
+28,CHF,Francs,Switzerland Francs,756
+29,CLP,Pesos,Chile Pesos,152
+30,CNY,Renminbi,China Yuan Renminbi,156
+31,COP,Pesos,Colombia Pesos,170
+32,CRC,Colones,Costa Rica Colones,188
+33,CUC,Pesos,Cuba Convertible Pesos,-1
+34,CUP,Pesos,Cuba Pesos,192
+35,CVE,Escudos,Cape Verde Escudos,132
+36,CZK,Koruny,Czech Republic Koruny,203
+37,DJF,Francs,Djibouti Francs,262
+38,DKK,Kroner,Denmark Kroner,208
+39,DOP,Pesos,Dominican Republic Pesos,214
+40,DZD,Dinars,Algeria Dinars,12
+41,EEK,Krooni,Estonia Krooni,233
+42,EGP,Pounds,Egypt Pounds,818
+43,ERN,Nakfa,Eritrea Nakfa,232
+44,ETB,Birr,Ethiopia Birr,230
+45,EUR,Euro,Euro,978
+46,FJD,Dollars,Fiji Dollars,242
+47,FKP,Pounds,Falkland Islands Pounds,238
+48,GBP,Pounds,United Kingdom Pounds,826
+49,GEL,Lari,Georgia Lari,981
+128,SGD,Dollars,Singapore Dollars,702
+129,SHP,Pounds,Saint Helena Pounds,654
+130,SKK,Koruny,Slovakia Koruny,703
+131,SLL,Leones,Sierra Leone Leones,694
+132,SOS,Shillings,Somalia Shillings,706
+133,SPL,Luigini,Seborga Luigini,-1
+134,SRD,Dollars,Suriname Dollars,-1
+135,STD,Dobras,São Tome and Principe Dobras,678
+136,SVC,Colones,El Salvador Colones,222
+137,SYP,Pounds,Syria Pounds,760
+138,SZL,Emalangeni,Swaziland Emalangeni,748
+139,THB,Baht,Thailand Baht,764
+140,TJS,Somoni,Tajikistan Somoni,972
+141,TMM,Manats,Turkmenistan Manats,795
+142,TND,Dinars,Tunisia Dinars,788
+143,TOP,Pa'anga,Tonga Pa'anga,776
+144,TRY,Lira,Turkey Lira,-1
+145,TTD,Dollars,Trinidad and Tobago Dollars,780
+146,TVD,Dollars,Tuvalu Dollars,-1
+147,TWD,Dollars,Taiwan New Dollars,901
+148,TZS,Shillings,Tanzania Shillings,834
+149,UAH,Hryvnia,Ukraine Hryvnia,980
+150,UGX,Shillings,Uganda Shillings,800
+151,USD,Dollars,United States Dollars,840
+152,UYU,Pesos,Uruguay Pesos,858
+153,UZS,Sums,Uzbekistan Sums,860
+154,VEB,Bolivares,Venezuela Bolivares,862
+155,VEF,Fuertes,Venezuela Bolivares Fuertes,-1
+156,VND,Dong,Vietnam Dong,704
+157,VUV,Vatu,Vanuatu Vatu,548
+158,WST,Tala,Samoa Tala,882
+159,XAF,Central,CFA Francs Central,950
+160,XAG,Ounces,Silver Ounces,-1
+161,XAU,Ounces,Gold Ounces,-1
+162,XCD,Dollars,East Caribbean Dollars,951
+163,XDR,Draw,International Monetary Fund Special Draw,-1
+164,XOF,West,CFA Francs West,952
+165,XPD,Ounces,Palladium Ounces,-1
+166,XPF,Francs,Comptoirs Français du Pacifique Francs,953
+167,XPT,Ounces,Platinum Ounces,-1
+168,YER,Rials,Yemen Rials,886
+169,ZAR,Rand,South Africa Rand,710
+170,ZMK,(ZMK),Zambia Kwatcha (ZMK),-1
+171,ZWD,Dollars,Zimbabwe Dollars,716
+172,MKSH,Mkash,Mkash,-1
+173,TMT,Manats,Turkmenistan New Manats,-1
+174,ZMW,Kwacha,Zambia Kwacha,894
+175,USB,Bond Notes,Zimbabwe Bond Notes,-1
+176,RTGSV,RTGS VAS,Zimbabwe RTGS VAS,-1
+177,RTG,Zim RTG,Zimbabwe RTG,-1
+178,N/A,Not Applicable,Not Applicable,-1
+50,GGP,Pounds,Guernsey Pounds,-1
+51,GHS,Cedis,Ghana Cedis,-1
+52,GIP,Pounds,Gibraltar Pounds,292
+53,GMD,Dalasi,Gambia Dalasi,270
+54,GNF,Francs,Guinea Francs,324
+55,GTQ,Quetzales,Guatemala Quetzales,320
+56,GYD,Dollars,Guyana Dollars,328
+57,HKD,Dollars,Hong Kong Dollars,344
+58,HNL,Lempiras,Honduras Lempiras,340
+59,HRK,Kuna,Croatia Kuna,191
+60,HTG,Gourdes,Haiti Gourdes,332
+61,HUF,Forint,Hungary Forint,348
+62,IDR,Rupiahs,Indonesia Rupiahs,360
+63,ILS,Shekels,Israel New Shekels,376
+64,IMP,Pounds,Isle of Man Pounds,-1
+65,INR,Rupees,India Rupees,356
+66,IQD,Dinars,Iraq Dinars,368
+67,IRR,Rials,Iran Rials,364
+68,ISK,Kronur,Iceland Kronur,352
+69,JEP,Pounds,Jersey Pounds,-1
+70,JMD,Dollars,Jamaica Dollars,388
+71,JOD,Dinars,Jordan Dinars,400
+72,JPY,Yen,Japan Yen,392
+73,KES,Shillings,Kenya Shillings,404
+74,KGS,Soms,Kyrgyzstan Soms,417
+75,KHR,Riels,Cambodia Riels,116
+76,KMF,Francs,Comoros Francs,174
+77,KPW,Won,North Korea Won,408
+78,KRW,Won,South Korea Won,410
+79,KWD,Dinars,Kuwait Dinars,414
+80,KYD,Dollars,Cayman Islands Dollars,136
+81,KZT,Tenge,Kazakhstan Tenge,398
+82,LAK,Kips,Laos Kips,418
+83,LBP,Pounds,Lebanon Pounds,422
+84,LKR,Rupees,Sri Lanka Rupees,144
+85,LRD,Dollars,Liberia Dollars,430
+86,LSL,Maloti,Lesotho Maloti,426
+87,LTL,Litai,Lithuania Litai,440
+88,LVL,Lati,Latvia Lati,428
+89,LYD,Dinars,Libya Dinars,434
+90,MAD,Dirhams,Morocco Dirhams,504
+91,MDL,Lei,Moldova Lei,498
+92,MGA,Ariary,Madagascar Ariary,-1
+93,MKD,Denars,Macedonia Denars,807
+94,MMK,Kyats,Myanmar Kyats,104
+95,MNT,Tugriks,Mongolia Tugriks,496
+96,MOP,Patacas,Macau Patacas,446
+97,MRO,Ouguiyas,Mauritania Ouguiyas,478
+98,MUR,Rupees,Mauritius Rupees,480
+99,MVR,Rufiyaa,Maldives Rufiyaa,462
+100,MWK,Kwacha,Malawi Kwachas,454
+101,MXN,Pesos,Mexico Pesos,484
+102,MYR,Ringgits,Malaysia Ringgits,458
+103,MZN,Meticais,Mozambique Meticais,-1
+104,NAD,NAD,Namibia Dollars,516
+105,NGN,Nairas,Nigeria Nairas,566
+106,NIO,Cordobas,Nicaragua Cordobas,558
+107,NOK,Kroner,Norway Kroner,578
+108,NPR,Rupees,Nepal Rupees,524
+109,NZD,Dollars,New Zealand Dollars,554
+110,OMR,Rials,Oman Rials,512
+111,PAB,Balboas,Panama Balboas,590
+112,PEN,Soles,Peru Nuevos Soles,604
+113,PGK,Kina,Papua New Guinea Kina,598
+114,PHP,Pesos,Philippines Pesos,608
+115,PKR,Rupees,Pakistan Rupees,586
+116,PLN,Zlotych,Poland Zlotych,985
+117,PYG,Guarani,Paraguay Guarani,600
+118,QAR,Riyals,Qatar Riyals,634
+119,RON,Lei,Romania New Lei,-1
+120,RSD,Dinars,Serbia Dinars,-1
+121,RUB,Rubles,Russia Rubles,643
+122,RWF,Francs,Rwanda Francs,646
+123,SAR,Riyals,Saudi Arabia Riyals,682
+124,SBD,Dollars,Solomon Islands Dollars,90
+125,SCR,Rupees,Seychelles Rupees,690
+126,SDG,Pounds,Sudan Pounds,-1
+127,SEK,Kronor,Sweden Kronor,752
+179,SSP,Pounds,South Sudanese Pounds,-1
